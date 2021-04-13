@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj": {}
+    "c:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj": {
+    "c:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj",
+        "projectUniqueName": "c:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj",
         "projectName": "HelloWorldWebGitExample",
-        "projectPath": "C:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj",
+        "projectPath": "c:\\Users\\Isheeta\\HelloWorldWebGitExample\\HelloWorldWebGitExample.csproj",
         "packagesPath": "C:\\Users\\Isheeta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isheeta\\HelloWorldWebGitExample\\obj\\",
+        "outputPath": "c:\\Users\\Isheeta\\HelloWorldWebGitExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isheeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
